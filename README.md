@@ -1,5 +1,7 @@
-# Self-Driving-Cars---Object-Tracking
+# Self-Driving-Cars - Object-Tracking
+Please check [Slides](<./Slides.pdf> "Slides") and [Project Report](<./Report.pdf> "Project Report") for more details and figures
 
+## Sample Visualiztion 
 Point Cloud Sequence with 3D BBox tracked and its Corresponding Video Sequence
 
 <img src="https://github.com/Akhy999/Self-Driving-Cars---Object-Tracking/blob/main/figs/output2.gif" width="760" />
